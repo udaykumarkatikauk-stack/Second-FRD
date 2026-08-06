@@ -2,7 +2,7 @@
 
 **Student Name:** Katika Uday Kumar
 
-**Email:** udaykumar.katikauk@gmaol.com
+**Email:** udaykumar.katikauk@gmail.com
 
 **Team Number:** 09
 
