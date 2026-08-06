@@ -14,7 +14,7 @@ public class Main {
             System.out.println("Current Profile: " + profile);
 
             if (profile == 1) {
-                name = "Yashwanth";
+                name = "Yashwanth"; 
                 height = 1.83;
                 weight = 86.4;
                 age = 22;

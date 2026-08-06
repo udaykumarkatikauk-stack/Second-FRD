@@ -2,7 +2,7 @@
 
 **Student Name:** Katika Uday Kumar
 
-**Email:** Your Email
+**Email:** udaykumar.katikauk@gmaol.com
 
 **Team Number:** 09
 
@@ -10,7 +10,7 @@
 
 **Project Title:** Health and Fitness Status Calculator
 
-**Repository URL:** github.com/udaykumarkatikauk-stack/Second-FRD
+**Repository URL:** github.com/udaykumarkatikSauk-stack/Second-FRD
 
 **Submission Time:** 7: 30 PM
 
