@@ -14,19 +14,19 @@ public class Main {
             System.out.println("Current Profile: " + profile);
 
             if (profile == 1) {
-                name = "Uday";
-                height = 1.80;
-                weight = 76.4;
+                name = "Yashwanth";
+                height = 1.83;
+                weight = 86.4;
                 age = 22;
-                activityHours = 2;
+                activityHours = 3;
                 waterIntake = 5.5;
                 sleepHours = 8;
             } else {
-                name = "Manoj";
-                height = 1.68;
-                weight = 56.0;
-                age = 21;
-                activityHours = 1;
+                name = "Sreenivas";
+                height = 1.80;
+                weight = 96.4;
+                age = 23;
+                activityHours = 4;
                 waterIntake = 2.5;
                 sleepHours = 7;
             }
