@@ -10,7 +10,7 @@
 
 **Project Title:** Health and Fitness Status Calculator
 
-**Repository URL:** github.com/udaykumarkatikSauk-stack/Second-FRD
+**Repository URL:** [github.com/udaykumarkatikSauk-stack/Second-FRD](https://github.com/udaykumarkatikauk-stack/Second-FRD)
 
 **Submission Time:** 7: 30 PM
 
